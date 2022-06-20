@@ -264,10 +264,12 @@ namespace SDD_Major_Project___Liam_Vancew
 
         private void OpenRenameMacro(string MacroLabelText, int NewMacro)
         {
+            //Shows all dialogs required
             CancelRenamingButton.Visible = true;
             RenameMacroButton.Visible = true;
             RenameInputField.Visible = true;
             RenameMacroLabel.Visible = true;
+            //Modifies the text field and global variable to match.
             RenameMacroLabel.Text = MacroLabelText;
             RenameInputField.Text = "";
             RenamedMacro = NewMacro;
@@ -300,10 +302,12 @@ namespace SDD_Major_Project___Liam_Vancew
 
         private void CancelRenamingButton_Click(object sender, EventArgs e)
         {
+            //Hides all renaming dialogs
             CancelRenamingButton.Visible = false;
             RenameMacroButton.Visible = false;
             RenameInputField.Visible = false;
             RenameMacroLabel.Visible = false;
+            //Resets text to be safe
             RenameInputField.Text = "";
         }
 
@@ -368,6 +372,7 @@ namespace SDD_Major_Project___Liam_Vancew
 
         private void RenameMacroButton_Click(object sender, EventArgs e)
         {
+            //Prevents empty dialogs
             if (RenameInputField.Text != "")
             {
                 //Switch Statement for each macro
