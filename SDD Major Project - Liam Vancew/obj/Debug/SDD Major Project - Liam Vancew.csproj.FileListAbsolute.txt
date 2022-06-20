@@ -1,0 +1,15 @@
+C:\Users\liam\Documents\Visual Studio Files\SDD Major Project - Liam Vancew\obj\Debug\SDD Major Project - Liam Vancew.csproj.AssemblyReference.cache
+C:\Users\liam\Documents\Visual Studio Files\SDD Major Project - Liam Vancew\obj\Debug\SDD Major Project - Liam Vancew.csproj.SuggestedBindingRedirects.cache
+C:\Users\liam\Documents\Visual Studio Files\SDD Major Project - Liam Vancew\obj\Debug\SDD_Major_Project___Liam_Vancew.Form1.resources
+C:\Users\liam\Documents\Visual Studio Files\SDD Major Project - Liam Vancew\obj\Debug\SDD_Major_Project___Liam_Vancew.Properties.Resources.resources
+C:\Users\liam\Documents\Visual Studio Files\SDD Major Project - Liam Vancew\obj\Debug\SDD Major Project - Liam Vancew.csproj.GenerateResource.cache
+C:\Users\liam\Documents\Visual Studio Files\SDD Major Project - Liam Vancew\obj\Debug\SDD Major Project - Liam Vancew.csproj.CoreCompileInputs.cache
+C:\Users\liam\Documents\Visual Studio Files\SDD Major Project - Liam Vancew\bin\Debug\SDD Major Project - Liam Vancew.exe.config
+C:\Users\liam\Documents\Visual Studio Files\SDD Major Project - Liam Vancew\bin\Debug\SDD Major Project - Liam Vancew.exe
+C:\Users\liam\Documents\Visual Studio Files\SDD Major Project - Liam Vancew\bin\Debug\SDD Major Project - Liam Vancew.pdb
+C:\Users\liam\Documents\Visual Studio Files\SDD Major Project - Liam Vancew\obj\Debug\SDD Major Project - Liam Vancew.exe
+C:\Users\liam\Documents\Visual Studio Files\SDD Major Project - Liam Vancew\obj\Debug\SDD Major Project - Liam Vancew.pdb
+C:\Users\liam\Documents\Visual Studio Files\SDD Major Project - Liam Vancew\bin\Debug\SDD Major Project - Liam Vancew.exe.manifest
+C:\Users\liam\Documents\Visual Studio Files\SDD Major Project - Liam Vancew\bin\Debug\SDD Major Project - Liam Vancew.application
+C:\Users\liam\Documents\Visual Studio Files\SDD Major Project - Liam Vancew\obj\Debug\SDD Major Project - Liam Vancew.exe.manifest
+C:\Users\liam\Documents\Visual Studio Files\SDD Major Project - Liam Vancew\obj\Debug\SDD Major Project - Liam Vancew.application
